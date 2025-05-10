@@ -1,5 +1,5 @@
-Keras 
-numpy 
-opencv-python 
-h5py 
-tensorflow 
+tensorflow==2.19.0
+keras==3.5.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+h5py==3.11.0
